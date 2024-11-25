@@ -1,3 +1,9 @@
+<style>
+  a {
+    text-decoration: none; /* Remove o sublinhado */
+  }
+</style>
+
 <h2 align="left">About Me</h2>
 
 ###
