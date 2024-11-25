@@ -85,6 +85,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/dbreno/dbreno/output/snake.svg" alt="Snake animation" />
-
 ###
